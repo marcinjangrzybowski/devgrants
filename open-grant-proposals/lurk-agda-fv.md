@@ -1,4 +1,4 @@
-# Open Grant Proposal: `Project Title`
+# Open Grant Proposal: `Agda formalization of Lurk*`
 
 **Name of Project: Agda formalization of Lurk**
 
