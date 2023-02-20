@@ -117,10 +117,6 @@ producing high quality learning materials and tutorials introducing developers t
 -   Marcin Grzybowski, Formal Methods Lead
 -   Paweł Wolak, Junior Developer
 
-
-### Team Member LinkedIn Profiles
-
-
 ### Team Website
 
 -   [https://mukn.io](https://mukn.io/)
